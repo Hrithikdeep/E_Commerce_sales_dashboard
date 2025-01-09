@@ -20,17 +20,45 @@ Identifies top-performing product categories and subcategories by sales and prof
 Geographical Analysis: Displays sales performance by state using a map visualization.
 
 
-Filters for Deep Dive: Enables slicing data by year, region, and customer segment for detailed analysis.
+Filters for Deep Dive:
+
+Enables slicing data by year, region, and customer segment for detailed analysis.
+
+
 🔧 Tools and Techniques
-Tool: Microsoft Excel
+
+
+  Tool: Microsoft Excel
+
+
 Visualizations: Pivot charts, slicers, and dynamic KPIs.
+
+
 Techniques: Data cleaning, aggregation, and dashboard design.
+
+
 🚀 How to Use
+
+
 Download the Excel file from this repository.
+
 Open it in Microsoft Excel (2016 or later recommended).
+
 Use the filters to explore sales data by different dimensions and derive actionable insights.
+
 📈 Insights Delivered
+
+
 Identified the highest revenue-generating states and product categories.
+
+
 Highlighted areas of growth and underperformance using YoY analysis.
+
+
 Enabled strategic decision-making through interactive visualizations.
+
+
 Let me know if you want any adjustments or additional sections added!
+
+
+
